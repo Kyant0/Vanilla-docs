@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvanilla=self.webpackChunkvanilla||[]).push([[149],{3087:l=>{l.exports=JSON.parse('{"permalink":"/Vanilla-docs/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

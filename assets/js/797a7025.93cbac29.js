@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvanilla=self.webpackChunkvanilla||[]).push([[419],{7030:l=>{l.exports=JSON.parse('{"permalink":"/Vanilla-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
